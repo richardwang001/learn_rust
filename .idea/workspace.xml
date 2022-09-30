@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f5d47d-5399-4de0-8190-87062a42703a" name="Changes" comment="" />
+    <list default="true" id="66f5d47d-5399-4de0-8190-87062a42703a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-7eef36323f253ca5/bin-calculate_area" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-7eef36323f253ca5/bin-calculate_area.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-7eef36323f253ca5/dep-bin-calculate_area" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-7eef36323f253ca5/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-dfcc5483f2b50941/bin-calculate_area" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-dfcc5483f2b50941/bin-calculate_area.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-dfcc5483f2b50941/dep-bin-calculate_area" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/.fingerprint/calculate_area-dfcc5483f2b50941/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/calculate_area.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/calculate_area.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/calculate_area.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/deps/calculate_area-dfcc5483f2b50941.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/deps/calculate_area.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/deps/calculate_area.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/deps/calculate_area.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/deps/libcalculate_area-dfcc5483f2b50941.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-1pmjv6qishvoi/s-ge07uaziu6-3uwnqg-2gekovg2w2n0/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-1pmjv6qishvoi/s-ge07uaziu6-3uwnqg-2gekovg2w2n0/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-1pmjv6qishvoi/s-ge07uaziu6-3uwnqg-2gekovg2w2n0/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-1pmjv6qishvoi/s-ge07uaziu6-3uwnqg.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/1q3r2ddvk02mphvs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/1wyghrscno8jbvq7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/2f5eppcdd1deh45a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/2umku6tstj0tmtfe.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/3ia8sjxk5lgiz496.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/3rkf3z0ovfrb1qkn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/4yatqmijswo8xt4p.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/l3b7ezfskq0zxaw.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/xqr5m7zfl9dqcj2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f-2vvoiv77i6h3j/yhtrw1qrivhz87m.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_area/target/debug/incremental/calculate_area-bgo5dznpaf5l/s-ge07t13fkh-1jr5a2f.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,19 +52,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wvpe6c47" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FRsfHZyayOyr4rJInjW9jfyw6a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/BaiduSyncdisk/learn_rust&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/BaiduSyncdisk/learn_rust",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/calculate_area" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="true" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="true" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,10 +106,22 @@
       <updated>1664466332763</updated>
       <workItem from="1664466333881" duration="647000" />
       <workItem from="1664469084584" duration="247000" />
+      <workItem from="1664538071789" duration="311000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
